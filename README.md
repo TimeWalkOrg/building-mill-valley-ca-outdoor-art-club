@@ -19,7 +19,7 @@ Valley. It’s rented out for weddings, parties and other social functions.
 - Model completed: May, 2018
 - Modeled in SketchUp 2017
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
+![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-outdoor-art-club/blob/master/sketchup-model.jpg)
 ![1920 photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
 
 
