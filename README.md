@@ -21,6 +21,10 @@ Valley. It’s rented out for weddings, parties and other social functions.
 - Modeled in SketchUp 2017
 
 ![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-outdoor-art-club/blob/master/sketchup-model.jpg)
+![recent photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-outdoor-art-club/blob/master/640px-Outdoor-Art-Center-Mill-Valley-Florin-WLM-02.jpg)
+![1920 photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-outdoor-art-club/blob/master/The-Outdoor-Art-Club-in-1920-Photo-MVN1341-OAC-in-1920-.jpg)
+
+
 
 ### Online references:
 - [Outdoor Art Club website - club history](http://www.outdoorartclub.org/history.html)
