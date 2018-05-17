@@ -7,13 +7,13 @@ because of picnickers that were destroying plant life. The famous architect, Ber
 was chosen by the club to design the building. The building is surrounded by beautiful foliage.
 
 Some interesting facts about the Mill Valley Art Club: During WW1 and 2 the clubhouse was
-given to the Red Cross for service. During 1848, the march for Women’s Suffrage, the club
+given to the Red Cross for service. During the march for Women’s Suffrage, the club
 worked to raise money for the movement. Today, the Outdoor Art Club is a social center for Mill
 Valley. It’s rented out for weddings, parties and other social functions.
 
-- Built: tbd
+- Built: 1904
 - Replaced: this building was remodeled but never replaced
-- Architect: tbd
+- Architect: Bernard Maybeck
 
 ## SketchUp Model
 - Model Creator: Sara Kubo, Hayley Lucero
@@ -21,8 +21,6 @@ Valley. It’s rented out for weddings, parties and other social functions.
 - Modeled in SketchUp 2017
 
 ![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-outdoor-art-club/blob/master/sketchup-model.jpg)
-![1920 photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
-
 
 ### Online references:
-- tbd
+- [Outdoor Art Club website - club history](http://www.outdoorartclub.org/history.html)
